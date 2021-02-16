@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 📔I'm currently pursuing my B.Tech in Velagapudi Ramakrishna Siddhartha Engineering College
+- 🌱I'm currently learning basics of git and github
+- 😄 I am interested in learning cybersecurity
 <!--
 **GullapalliAngel/GullapalliAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
